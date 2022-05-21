@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\bin\Debug\net5.0\MessageDecrypter.exe
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\bin\Debug\net5.0\MessageDecrypter.deps.json
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\bin\Debug\net5.0\MessageDecrypter.runtimeconfig.json
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\bin\Debug\net5.0\MessageDecrypter.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\bin\Debug\net5.0\MessageDecrypter.dll
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\bin\Debug\net5.0\ref\MessageDecrypter.dll
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\bin\Debug\net5.0\MessageDecrypter.pdb
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.dll
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\ref\MessageDecrypter.dll
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.pdb
+C:\Users\5Nitro\source\repos\MessageDecrypter\MessageDecrypter\obj\Debug\net5.0\MessageDecrypter.genruntimeconfig.cache
