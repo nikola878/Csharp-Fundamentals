@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net5.0\SpaceTravel.exe
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net5.0\SpaceTravel.deps.json
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net5.0\SpaceTravel.runtimeconfig.json
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net5.0\SpaceTravel.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net5.0\SpaceTravel.dll
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net5.0\ref\SpaceTravel.dll
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\bin\Debug\net5.0\SpaceTravel.pdb
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.dll
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\ref\SpaceTravel.dll
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.pdb
+C:\Users\5Nitro\source\repos\SpaceTravel\SpaceTravel\obj\Debug\net5.0\SpaceTravel.genruntimeconfig.cache

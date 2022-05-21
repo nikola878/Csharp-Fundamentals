@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSLPTA8DZkJ0/HxHSpWeE5TjtpFaRqRqrz5pSakzannIXlBTMUp0FaBnM0gv23MokgCRB1e52e390uEcBOg86Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\5Nitro\\source\\repos\\SpaceTravel\\SpaceTravel\\SpaceTravel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\5Nitro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\5Nitro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\5Nitro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\5Nitro\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
