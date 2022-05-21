@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\bin\Debug\net5.0\PhoneShop.exe
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\bin\Debug\net5.0\PhoneShop.deps.json
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\bin\Debug\net5.0\PhoneShop.runtimeconfig.json
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\bin\Debug\net5.0\PhoneShop.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\bin\Debug\net5.0\PhoneShop.dll
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\bin\Debug\net5.0\ref\PhoneShop.dll
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\bin\Debug\net5.0\PhoneShop.pdb
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.dll
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\ref\PhoneShop.dll
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.pdb
+C:\Users\5Nitro\source\repos\PhoneShop\PhoneShop\obj\Debug\net5.0\PhoneShop.genruntimeconfig.cache
